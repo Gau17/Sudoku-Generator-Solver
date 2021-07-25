@@ -119,7 +119,7 @@ for i in range(9):
     if i == 2 or i == 5:
         print(line)
 
-fillPosition(0, 0)  # Solvin the generated Sudoku
+fillPosition(0, 0)  # Solving the generated Sudoku
 print('\nThe corresponding solution is')
 for i in range(9):
     row = ''
