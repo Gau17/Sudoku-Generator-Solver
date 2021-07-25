@@ -4,7 +4,7 @@ This program can generate Sudoku puzzles with varying level of difficulty. The d
 This program can generate any number of Sudoku puzzles. The program also correspondingly solves the generated Sudoku puzzle.
 
 # How to use it:
-- Run the sudoku.py file. 
+- Download and run the sudoku.py file. 
 - The program will prompt for difficulty level. 
 - Enter 1,2 or 3 for easy, medium and hard levels respectively. 
 - The program then displays and unsolved Sudoku puzzle and the corresponding solution.
